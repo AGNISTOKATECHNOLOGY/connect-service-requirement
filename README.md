@@ -10,7 +10,7 @@
 
 3. Interface Layout:
 - Chat box for both with same interface
-- A chat popup will appear when the user clicks on the button, allowing them to chat with the admin.
+- A chat popup will appear when the user(admin) clicks on the button, allowing them to chat with the super admin.
 - Similarly, from the super admin panel's left layout, the Super Admin can select any client (admin) and click on "New Message" to directly send a message to the client (admin).
 
 ## Development Process
